@@ -1,9 +1,5 @@
-# 🇮🇱 Israeli Identity Cards System - FiveM
+# qb-cards 
 
-מערכת תעודות ורישיונות ל־FiveM בעיצוב בהשראת תעודות ישראליות.  
-הסקריפט מאפשר לשחקנים להציג תעודות שונות בתוך ה־RP בצורה נוחה וויזואלית.
-
-המערכת נבנתה עם דגש על **קלות שימוש, תאימות למספר פריימוורקים ועיצוב ייחודי** שמתאים לשרתים ישראלים.
 
 ---
 
@@ -181,19 +177,6 @@ ox_inventory/web/images
 
 # 🖼️ Images
 
-יש להוסיף את התמונות המצורפות לתיקיית התמונות של מערכת האינבנטורי.
-
-**QB Inventory**
-
-```
-qb-inventory/html/images
-```
-
-**OX Inventory**
-
-```
-ox_inventory/web/images
-```
 
 ---
 
@@ -220,9 +203,6 @@ ox_inventory/web/images
 
 Free to use for FiveM servers.  
 Do not resell the script.
-
+Made by sol 
+https://discord.gg/zNfeS5qMJM
 ---
-
-# ❤️ Credits
-
-Developed for the Israeli FiveM community.
